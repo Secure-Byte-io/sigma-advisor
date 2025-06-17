@@ -1,4 +1,5 @@
 # Sigma Advisor
+![Sigma Advisor](sigma-advisor.png)
 Sigma Advisor is an AI-powered security analysis tool that bridges the gap between threat intelligence and detection engineering. The tool streamlines security operations by:
 
 - Automatically analyzing threat reports to identify relevant detection opportunities
@@ -43,5 +44,5 @@ This will output a JSON file with the results. An example output is provided in 
 
 Are you interested in building advanced AI agent workflows for security operations? If you want to learn how to design, implement, and scale solutions like Sigma Advisor, reach out to us! We offer specialized training and consulting to help you elevate your security team's capabilities.
 
-👉 [Contact us to get started!](https://secure-byte.io/contact)
+👉 [Contact us!](https://secure-byte.io/contact)
 
