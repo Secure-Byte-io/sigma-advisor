@@ -1,5 +1,5 @@
 # Sigma Advisor
-![Sigma Advisor](sigma_advisor_logo_small.png)
+![Sigma Advisor](sigma_advisor_logo_white.png)
   
 Sigma Advisor is an AI-powered security analysis tool that bridges the gap between threat intelligence and detection engineering. The tool streamlines security operations by:
 
